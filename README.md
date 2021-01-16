@@ -86,3 +86,15 @@ And add these 4 lines below the label_map_path argument in eval reader section
 --trained_checkpoint_prefix training/model.ckpt-2755 
 5.	A folder called new_graph will be created, in the object detection directory.
 
+Here are the outputs:
+
+This is the upload page, where a document can be uploaded.
+ 
+Below, the document has been uploaded
+ 
+
+
+
+Here I have the outputs as per what the trained model running in the backend has detected  
+
+
